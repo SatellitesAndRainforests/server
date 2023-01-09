@@ -1,0 +1,14 @@
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/api/RisController.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataModels/Capture.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataAccess/ImageRowMapper.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/exceptions/CaptureAlreadyInDb.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/DemoApplication.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataAccess/RisDataAccessService.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/api/RisService.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataAccess/UserRowMapper.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataModels/Image.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/config/DatasourceConfig.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataAccess/CaptureRowMapper.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/exceptions/NotFoundException.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataModels/User.java
+/home/witch/rainforestInformationSystem/server/src/main/java/com/risServer/dataAccess/RisDao.java
