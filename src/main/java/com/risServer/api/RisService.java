@@ -29,7 +29,7 @@ import java.util.*;
 @Service
 public class RisService {
 
-    private final String filePath = "/home/ubuntu/client/src/assets/captures/";
+    private final String filePath = "/home/witch/webInterface/src/assets/captures/";
     //private final String nightVisionCameraIP = "192.168.1.15";
     private final String nightVisionCameraIP = "10.3.141.1";
 

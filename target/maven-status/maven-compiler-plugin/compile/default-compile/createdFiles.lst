@@ -1,12 +1,12 @@
+com/risServer/api/RisController.class
 com/risServer/dataAccess/ImageRowMapper.class
 com/risServer/dataModels/Image.class
-com/risServer/api/RisController.class
 com/risServer/api/RisService.class
 com/risServer/DemoApplication.class
 com/risServer/exceptions/CaptureAlreadyInDb.class
 com/risServer/dataAccess/UserRowMapper.class
-com/risServer/config/DatasourceConfig.class
 com/risServer/api/RisService$1.class
+com/risServer/config/DatasourceConfig.class
 com/risServer/dataAccess/RisDataAccessService.class
 com/risServer/dataModels/User.class
 com/risServer/dataAccess/CaptureRowMapper.class
