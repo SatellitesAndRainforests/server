@@ -198,7 +198,7 @@ public class RisService {
         //String sshCommand = "./startLiveStream.sh";
         //command = "touch 1.txt";
 
-        try (SshClient sshClient = new SshClient(this.nightVisionCameraIP, 22, "pi", new File("/home/witch/.ssh/id_rsa") , "" )) {
+        try (SshClient sshClient = new SshClient(this.nightVisionCameraIP, 22, "pi", new File("/root/.ssh/id_rsa") , "" )) {
 
             if (sshClient.isAuthenticated()) {
 
